@@ -1,4 +1,4 @@
 ---
 title: "Information"
-description: "This is where our information"
+description: "Workshops, meetups, and innovation challenges updates"
 ---
