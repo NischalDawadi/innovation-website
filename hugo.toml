@@ -39,7 +39,7 @@ theme = 'PaperMod'
     name = "Information"
     url = "/Information/"
     weight = 1
-menu]
+[menu]
   [[menu.main]]
     identifier = "Projects"
     name = "Projects"
