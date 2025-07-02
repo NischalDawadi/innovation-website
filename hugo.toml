@@ -17,7 +17,7 @@ theme = 'PaperMod'
   
   [params.homeInfoParams]
  Title = "Welcome to GSSN Innovation"
- Content = "Exploring the medical future."
+ Content = "Empowering Medical Innovation through Design and Technology."
   
   
  [[params.socialIcons]]
