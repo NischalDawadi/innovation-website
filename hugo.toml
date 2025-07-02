@@ -35,7 +35,7 @@ theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
-    identifier = "information"
+    identifier = "Information"
     name = "Information"
     url = "/Information/"
     weight = 1

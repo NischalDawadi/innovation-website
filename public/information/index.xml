@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Innovation Home</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Innovation Home</description>
+    <title>Information on Innovation Home</title>
+    <link>http://localhost:1313/information/</link>
+    <description>Recent content in Information on Innovation Home</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Feb 2025 21:24:05 +0545</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/information/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our Goals</title>
       <link>http://localhost:1313/information/the_future_is_here/</link>
