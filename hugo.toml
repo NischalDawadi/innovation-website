@@ -13,7 +13,8 @@ theme = 'PaperMod'
   showPostThumbnails = true
   showBreadCrumbs = true
   defaultTheme = "auto"
-  mainSections = ["Information", "Projects"]
+mainSections = [ "projects", "information" ]
+
   
   [params.homeInfoParams]
  Title = "Welcome to GSSN Innovation"
@@ -35,13 +36,14 @@ theme = 'PaperMod'
 
 [menu]
   [[menu.main]]
-    identifier = "Information"
+    identifier = "information"
     name = "Information"
     url = "/Information/"
     weight = 1
-
+    
   [[menu.main]]
-    identifier = "Projects"
+    identifier = "projects"
     name = "Projects"
     url = "/Projects/"
     weight = 2
+
