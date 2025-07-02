@@ -1,4 +1,4 @@
-baseURL = 'https://GSSN_Innovation.netlify.app/'
+baseURL = 'https://innovationweb.netlify.app/'
 languageCode = 'en-us'
 title = 'Innovation Home'
 theme = 'PaperMod'
