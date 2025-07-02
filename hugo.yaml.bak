@@ -1,0 +1,41 @@
+baseURL = 'https://GSSN_Innovation.netlify.app/'
+languageCode = 'en-us'
+title = 'Innovation Home'
+theme = 'PaperMod'
+
+
+[params]
+  ShowShareButtons = true
+  ShowToc = false
+  showPostNavLinks = true
+  showReadingTime = true
+  showToc = true
+  showPostThumbnails = true
+  showBreadCrumbs = true
+  defaultTheme = "auto"
+  mainSections = ["books", "movies","music"]
+  
+  [params.homeInfoParams]
+ Title = "Welcome to GSSN_Innovation"
+ Content = "Exploring the medical future."
+  
+  
+ [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/NischalDawadi"
+
+
+[[params.socialIcons]]
+    name = "email"
+    url = "https://gmail.com/jamesdawadi13@gmail.com"
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/@dawadinischal"
+
+[menu]
+  [[menu.main]]
+    identifier = "information"
+    name = "Information"
+    url = "/information/"
+    weight = 1
