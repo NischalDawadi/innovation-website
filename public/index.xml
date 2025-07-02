@@ -9,7 +9,7 @@
     <lastBuildDate>Wed, 12 Feb 2025 21:24:05 +0545</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Our Goals</title>
+      <title>Welcome to the Future of Medical Innovation</title>
       <link>http://localhost:1313/information/the_future_is_here/</link>
       <pubDate>Wed, 12 Feb 2025 21:24:05 +0545</pubDate>
       <guid>http://localhost:1313/information/the_future_is_here/</guid>
@@ -18,6 +18,13 @@
 &lt;p&gt;At GSSN Innovation, we believe innovation starts with curiosity and thrives on collaboration. As a team of medical students, engineers, and problem-solvers, we are driven by one goal: to turn ideas into real-world solutions that improve lives.
 Where We&amp;rsquo;re Headed&lt;/p&gt;
 &lt;p&gt;Our focus lies at the intersection of healthcare and technology. From developing 3D anatomical models using tools like Autodesk Fusion 360, to exploring novel ways of making medical education more interactive, we are committed to pushing boundaries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Syringe</title>
+      <link>http://localhost:1313/projects/syringe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/syringe/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
