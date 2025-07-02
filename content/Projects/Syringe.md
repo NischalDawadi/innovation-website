@@ -8,10 +8,10 @@ We are excited to share one of our recent innovations — a realistic 3D model o
 
 This project demonstrates our capability to digitally design medical tools for educational and prototyping purposes. The model focuses on:
 
-    Realistic proportions
+Realistic proportions
 
-    Smooth sliding piston mechanism
+Smooth sliding piston mechanism
 
-    Ready for 3D printing if needed
+Ready for 3D printing if needed
 
 Our goal with such projects is to enhance medical learning through interactive, accurate models.
