@@ -17,7 +17,7 @@ theme = 'PaperMod'
   mainSections = [ "projects", "information"]
   hideFooter = true
   disableThemeToggle= true
-  
+  assets = ["css/custom.css"]
 
   [params.homeInfoParams]
  Title = "Welcome to GSSN Innovation"
