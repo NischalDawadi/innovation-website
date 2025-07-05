@@ -1,0 +1,26 @@
+
+{{ define "main" }}
+<main class="team-container">
+    <h1 class="team-title">Meet the Dream Team</h1>
+    
+    <p class="team-intro">
+        Driven by curiosity.<br>
+        Building with purpose.<br>
+        Innovating for better healthcare.
+    </p>
+
+    <div class="team-grid">
+        {{ range .Pages.ByWeight }}
+        <div class="team-member">
+            <div class="team-photo-container">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}">
+            </div>
+            <h3>{{ .Title }}</h3>
+            <p class="role">{{ .Params.role }}</p>
+            <p class="bio">{{ .Params.summary }}</p>
+        </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
+

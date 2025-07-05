@@ -1,0 +1,49 @@
+:root {
+    --theme-accent: #88c9bf;           /* Soft pastel teal for links and highlights */
+    --theme-text: #333333;             /* Main text color */
+    --theme-bg: #fefefe;               /* Background color - almost white */
+    --theme-bg-secondary: #e6f4f1;     /* Secondary background - pastel teal tint */
+    --theme-code-bg: #f2f2f2;          /* Code block background */
+}
+
+/* Optional: Slightly round card edges */
+.article, .post-entry {
+    border-radius: 0.5rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Subtle hover effect for post cards */
+.article:hover, .post-entry:hover {
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Improve link visibility */
+a {
+    color: var(--theme-accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Optional: Softer header background */
+.header {
+    background-color: #e6f4f1;
+}
+
+/* Optional: Button styling if used */
+button {
+    background-color: var(--theme-accent);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #6db5aa;
+}
