@@ -7,15 +7,18 @@ theme = 'PaperMod'
 [params]
   ShowShareButtons = true
   ShowToc = false
+  ShowAuthor = true
   showPostNavLinks = true
   showReadingTime = true
   showToc = true
   showPostThumbnails = true
   showBreadCrumbs = true
-  defaultTheme = "auto"
-mainSections = [ "projects", "information" ]
+  defaultTheme = "light"
+  mainSections = [ "projects", "information"]
+  hideFooter = true
+  disableThemeToggle= true
 
-  
+
   [params.homeInfoParams]
  Title = "Welcome to GSSN Innovation"
  Content = "Empowering Medical Innovation through Design and Technology."
@@ -28,7 +31,7 @@ mainSections = [ "projects", "information" ]
 
 [[params.socialIcons]]
     name = "email"
-    url = "https://gmail.com/jamesdawadi13@gmail.com"
+    url = "mailto:jamesdawadi13@gmail.com"
 
   [[params.socialIcons]]
   name = "youtube"
@@ -47,3 +50,14 @@ mainSections = [ "projects", "information" ]
     url = "/Projects/"
     weight = 2
 
+  [[menu.main]]
+  identifier = "team"
+  name = "Team"
+  url = "/team/"
+  weight = 4
+
+ [[menu.main]]
+ identifier = "paper"
+  name = "Papers"
+ url = "/Papers/"
+weight = 3

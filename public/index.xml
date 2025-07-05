@@ -9,6 +9,27 @@
     <lastBuildDate>Wed, 12 Feb 2025 21:24:05 +0545</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Nischal</title>
+      <link>http://localhost:1313/team/nischal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/nischal/</guid>
+      <description>Passionate about using technology and creativity to drive medical innovation</description>
+    </item>
+    <item>
+      <title>Sulav</title>
+      <link>http://localhost:1313/team/sulav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/sulav/</guid>
+      <description>Loves creative problem solving.</description>
+    </item>
+    <item>
+      <title>Naresh</title>
+      <link>http://localhost:1313/team/naresh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/naresh/</guid>
+      <description>Sees beyond status quo, transforming friction into breakthrough and reshaping medical future.</description>
+    </item>
+    <item>
       <title>Welcome to the Future of Medical Innovation</title>
       <link>http://localhost:1313/information/the_future_is_here/</link>
       <pubDate>Wed, 12 Feb 2025 21:24:05 +0545</pubDate>
@@ -30,6 +51,13 @@ Where We&amp;rsquo;re Headed&lt;/p&gt;
 &lt;p&gt;Smooth sliding piston mechanism&lt;/p&gt;
 &lt;p&gt;Ready for 3D printing if needed&lt;/p&gt;
 &lt;p&gt;Our goal with such projects is to enhance medical learning through interactive, accurate models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yogesh</title>
+      <link>http://localhost:1313/team/yogesh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/team/yogesh/</guid>
+      <description>Guiding innovative medical projects and fostering a creative, problem-solving environment within the team.</description>
     </item>
   </channel>
 </rss>

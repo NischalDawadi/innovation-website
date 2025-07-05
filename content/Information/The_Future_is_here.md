@@ -1,6 +1,7 @@
 +++
 title = 'Welcome to the Future of Medical Innovation'
 date = 2025-02-12T21:24:05+05:45
+author = 'Nischal Dawadi'
 draft = false
 [cover]
 image = "/images/glasses.jpg"
