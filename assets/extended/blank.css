@@ -1,0 +1,92 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+/* Container for the whole team section */
+
+.team-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+/* Title and fun intro */
+.team-title {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.team-intro {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+}
+
+/* Responsive Grid */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 2rem;
+}
+
+/* Individual Team Card */
+.team-member {
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    background: var(--theme-bg);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.team-member:hover {
+    transform: translateY(-7px) scale(1.03);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.15);
+}
+
+/* Circular Photo Container */
+.team-photo-container {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 1rem;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+/* Image Inside Circle */
+.team-photo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+/* Smooth Zoom Effect on Hover */
+.team-photo-container:hover img {
+    transform: scale(1.1);
+}
+
+/* Text Styles */
+.team-member h3 {
+    margin: 0.5rem 0 0.2rem;
+}
+
+.team-member .role {
+    font-weight: bold;
+    color: #888;
+    margin-bottom: 0.5rem;
+}
+
+.team-member .bio {
+    font-size: 0.95rem;
+    color: #444;
+}
+
+
+
+
+

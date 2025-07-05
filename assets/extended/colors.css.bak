@@ -1,0 +1,117 @@
+/* ==========================
+   Bold Purple Minimal CSS for PaperMod (Light Mode)
+   Using Provided Palette
+   ========================== */
+
+/* Light Mode Styles */
+body {
+    background-color: #FFFFFF;
+    color: #212121;
+}
+
+.header,  {
+    background-color: #10002B;
+    color: #FFFFFF;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+
+.navbar a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #5A189A;
+    text-decoration: underline;
+}
+
+a {
+    color: #5A189A;
+}
+
+a:hover {
+    color: #7B2CBF;
+}
+
+
+
+/* Cards or Highlights */
+.card, .highlight {
+    background-color: #F5F5F5;
+    border-left: 4px solid #9D4EDD;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Borders and Dividers */
+hr, .divider {
+    border-color: #E0E0E0;
+}
+
+/* Code blocks */
+code, pre {
+    background-color: #F5F5F5;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid #7B2CBF;
+    background-color: #F5F5F5;
+    padding: 0.5rem 1rem;
+    color: #212121;
+}
+
+/* ==========================
+   Dark Mode (Keep mostly default, don't theme switch button)
+   ========================== */
+.dark body {
+    background-color: #121212;
+    color: #E0E0E0;
+}
+
+.dark .header, .dark .navbar {
+    background-color: #1F1F1F;
+    color: #E0E0E0;
+}
+
+.dark .navbar a {
+    color: #E0E0E0;
+}
+
+.dark .navbar a:hover {
+    color: #7986CB;
+}
+
+.dark a {
+    color: #7986CB;
+}
+
+.dark a:hover {
+    color: #5C6BC0;
+}
+
+.dark button, .dark .button {
+    background-color: #7986CB;
+    color: #FFFFFF;
+}
+
+.dark button:hover, .dark .button:hover {
+    background-color: #5C6BC0;
+}
+
+.dark hr, .dark .divider {
+    border-color: #333333;
+}
+
+.dark code, .dark pre {
+    background-color: #1F1F1F;
+}
+
+.dark blockquote {
+    border-left: 4px solid #7986CB;
+    background-color: #1F1F1F;
+    color: #E0E0E0;
+}
