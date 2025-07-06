@@ -1,0 +1,82 @@
+/* ===== Typography ===== */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #F5F7FA; /* Cloud Mist */
+    color: #1A1B1F; /* Charcoal Black */
+    line-height: 1.6;
+}
+
+.home-info h1 {
+    background: transparent;
+    padding: 0;
+    margin: 0 0 0.5rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6, .site-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.nav a, .menu a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+
+.home-info mark {
+    background: transparent;
+    color: inherit;
+    padding: 0;
+}
+
+
+
+
+/* ===== Link & Button Styling ===== */
+
+a,
+.post-content a {
+    color: #5A67D8; /* Misty Indigo */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover,
+.post-content a:hover {
+    color: #434190; /* Deep Indigo */
+}
+
+
+
+
+
+
+
+
+
+
+/* ===== Accent Elements ===== */
+
+.nav, .menu {
+    background-color: #f5f5f7;
+}
+
+.post-entry, .card {
+    background-color: #f5f5f7; /* Soft Pebble */
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Tags or Highlights */
+.tag, .taxonomy-term {
+    background-color: #FCD9D9; /* Blush Sand */
+    color: #1A1B1F;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.3rem;
+}
