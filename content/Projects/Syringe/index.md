@@ -1,5 +1,6 @@
 +++
 title = 'Syringe'
+author = 'Nischal Dawadi'
 draft = false
 [cover]
   image = "/images/syringe.jpeg"
