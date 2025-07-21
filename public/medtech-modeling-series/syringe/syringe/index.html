@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design | Innovation Home</title>
+<meta name="keywords" content="Fusion 360, Medical Devices, 3D Modeling, Syringe, MedTech">
+<meta name="description" content="In this project, we built a fully functional syringe model in Fusion 360. It helped us understand tolerances, movement, and how important small details are in medical devices. This was one of our favorite challenges — precise, practical, and deeply satisfying.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/medtech-modeling-series/syringe/syringe/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fb3da613bf011a044555920d69b1479799024ef6a6ccc0fe3d87f1036d776495.css" integrity="sha256-&#43;z2mE78BGgRFVZINabFHl5kCTvamzMD&#43;PYfxA213ZJU=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/icons/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/icons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/icons/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/icons/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/medtech-modeling-series/syringe/syringe/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Innovation Home (Alt + H)">Innovation Home</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/information/" title="Information">
+                    <span>Information</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/medtech-modeling-series/" title="Medtech-Modeling">
+                    <span>Medtech-Modeling</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers/" title="Papers">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/projects/" title="Projects">
+                    <span>Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/team/" title="Team">
+                    <span>Team</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design
+    </h1>
+    <div class="post-meta"><span title='2025-07-19 00:00:00 +0000 UTC'>July 19, 2025</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="http://localhost:1313/images/syringe.jpeg" alt="">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#-why-we-modeled-a-syringe" aria-label="💭 Why We Modeled a Syringe">💭 Why We Modeled a Syringe</a></li>
+                <li>
+                    <a href="#-design-workflow" aria-label="🛠️ Design Workflow">🛠️ Design Workflow</a></li>
+                <li>
+                    <a href="#-key-learnings" aria-label="🧠 Key Learnings">🧠 Key Learnings</a></li>
+                <li>
+                    <a href="#-also-in-this-series" aria-label="🔄 Also in This Series">🔄 Also in This Series</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h2 id="-why-we-modeled-a-syringe">💭 Why We Modeled a Syringe<a hidden class="anchor" aria-hidden="true" href="#-why-we-modeled-a-syringe">#</a></h2>
+<p>Syringes are the most basic yet essential tools in medicine — used daily across every discipline. But behind their simplicity lies thoughtful engineering: the pressure mechanics, the plunger tolerances, the tactile feel.</p>
+<p>This model started as an attempt to study those invisible details. How do form and function intersect? How can we simulate them virtually?</p>
+<p>Creating this model in Fusion 360 helped us understand the <strong>precision</strong> required even in the most ordinary tools.</p>
+<h2 id="-design-workflow">🛠️ Design Workflow<a hidden class="anchor" aria-hidden="true" href="#-design-workflow">#</a></h2>
+<p>Key steps involved:</p>
+<ul>
+<li><strong>Sketch-Based Modeling</strong>: Built the barrel, plunger, and tip using parametric sketches and revolves.</li>
+<li><strong>Tolerancing</strong>: Added realistic gaps for plunger movement, mimicking actual use.</li>
+<li><strong>Joint Simulation</strong>: Animated plunger motion to verify usability.</li>
+<li><strong>Threading &amp; Filleting</strong>: Added fine edges and minor threads for realism and printability.</li>
+</ul>
+<blockquote>
+<p>We learned how important even 0.2 mm tolerances can be in a medical context.</p></blockquote>
+<h2 id="-key-learnings">🧠 Key Learnings<a hidden class="anchor" aria-hidden="true" href="#-key-learnings">#</a></h2>
+<ul>
+<li>Mastery of <strong>revolve, fillet, shell</strong> operations</li>
+<li>Used <strong>assembly joints</strong> for basic motion simulation</li>
+<li>Considered <strong>3D print feasibility</strong> for educational/simulation models</li>
+<li>Emphasized <strong>parametric control</strong> for iterating on design</li>
+</ul>
+<hr>
+<h2 id="-also-in-this-series">🔄 Also in This Series<a hidden class="anchor" aria-hidden="true" href="#-also-in-this-series">#</a></h2>
+<p>🧴 <a href="../medical_bottle">Medical Bottle – Designing for Usability</a><br>
+🩺 <a href="../stethoscope-design/">Stethoscope – Anatomy in Design</a></p>
+<hr>
+<p><em>This post is part of the <a href="..">MedTech Modeling Series</a>, where we explore the intersection of medicine, design, and digital fabrication.</em></p>
+<blockquote>
+<p>💬 Have your own experience modeling healthcare tools? Let&rsquo;s connect!</p></blockquote>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/fusion-360/">Fusion 360</a></li>
+      <li><a href="http://localhost:1313/tags/medical-devices/">Medical Devices</a></li>
+      <li><a href="http://localhost:1313/tags/3d-modeling/">3D Modeling</a></li>
+      <li><a href="http://localhost:1313/tags/syringe/">Syringe</a></li>
+      <li><a href="http://localhost:1313/tags/medtech/">MedTech</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="http://localhost:1313/medtech-modeling-series/syringe/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</span>
+  </a>
+  <a class="next" href="http://localhost:1313/information/the_future_is_here/">
+    <span class="title">Next »</span>
+    <br>
+    <span>Welcome to GSSN Innovation</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a><footer class="footer">
+    <span>
+        © 2025 · Designed & Maintained by Nischal Dawadi
+    </span>
+</footer>
+
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+</body>
+
+</html>
