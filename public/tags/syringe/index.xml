@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/tags/syringe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>
-      <link>http://localhost:1313/medtech-modeling-series/syringe/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/syringe/</guid>
-      <description>In this project, we built a fully functional syringe model in Fusion 360. It helped us understand tolerances, movement, and how important small details are in medical devices. This was one of our favorite challenges — precise, practical, and deeply satisfying.</description>
-    </item>
-    <item>
-      <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>
       <link>http://localhost:1313/medtech-modeling-series/syringe/syringe/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/medtech-modeling-series/syringe/syringe/</guid>

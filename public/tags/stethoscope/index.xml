@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/tags/stethoscope/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
-      <link>http://localhost:1313/medtech-modeling-series/stethescope/</link>
-      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/stethescope/</guid>
-      <description>We’ve carried stethoscopes as medical students for years — so we decided to build one ourselves. This project was both personal and technical: a Fusion 360 model that helped us learn about organic curves, modular parts, and how everyday tools are designed from the ground up.</description>
-    </item>
-    <item>
-      <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
       <link>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</guid>

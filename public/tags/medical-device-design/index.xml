@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/tags/medical-device-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
-      <link>http://localhost:1313/medtech-modeling-series/medical_bottle/</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/</guid>
-      <description>As a team exploring 3D modeling in healthcare, we started simple — with a medical bottle. This project taught us how to work with threads, curves, and proportions using Fusion 360. It was our first real step into medical design, and it set the tone for everything that followed.</description>
-    </item>
-    <item>
-      <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
       <link>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</guid>

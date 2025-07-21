@@ -10,13 +10,6 @@
     <atom:link href="http://localhost:1313/tags/medtech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
-      <link>http://localhost:1313/medtech-modeling-series/medical_bottle/</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/</guid>
-      <description>As a team exploring 3D modeling in healthcare, we started simple — with a medical bottle. This project taught us how to work with threads, curves, and proportions using Fusion 360. It was our first real step into medical design, and it set the tone for everything that followed.</description>
-    </item>
-    <item>
-      <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
       <link>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</guid>
@@ -24,24 +17,10 @@
     </item>
     <item>
       <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
-      <link>http://localhost:1313/medtech-modeling-series/stethescope/</link>
-      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/stethescope/</guid>
-      <description>We’ve carried stethoscopes as medical students for years — so we decided to build one ourselves. This project was both personal and technical: a Fusion 360 model that helped us learn about organic curves, modular parts, and how everyday tools are designed from the ground up.</description>
-    </item>
-    <item>
-      <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
       <link>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</guid>
       <description>We’ve carried stethoscopes as medical students for years — so we decided to build one ourselves. This project was both personal and technical: a Fusion 360 model that helped us learn about organic curves, modular parts, and how everyday tools are designed from the ground up.</description>
-    </item>
-    <item>
-      <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>
-      <link>http://localhost:1313/medtech-modeling-series/syringe/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/syringe/</guid>
-      <description>In this project, we built a fully functional syringe model in Fusion 360. It helped us understand tolerances, movement, and how important small details are in medical devices. This was one of our favorite challenges — precise, practical, and deeply satisfying.</description>
     </item>
     <item>
       <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>

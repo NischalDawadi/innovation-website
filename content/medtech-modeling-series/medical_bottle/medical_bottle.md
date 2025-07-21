@@ -5,14 +5,13 @@ summary= "As a team exploring 3D modeling in healthcare, we started simple — w
 tags= ["Fusion 360", "3D Modeling", "Medical Device Design", "MedTech"]
 categories= ["Projects"]
 [cover]
-  image= "medical.png"
+  image= "/images/medical.png"
   alt= "3D render of a medical bottle"
   caption= "Fusion 360 model of a medical bottle created for MedTech simulation"
   relative= true
 
 +++
 
-![Medical Bottle Render](/static/images/Medical%20bottle%20v2.png)
 
 ## 💭 Why a Medical Bottle?
 
