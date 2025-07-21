@@ -8,26 +8,68 @@
   </url><url>
     <loc>http://localhost:1313/team/naresh/</loc>
   </url><url>
-    <loc>http://localhost:1313/information/</loc>
-    <lastmod>2025-02-12T21:24:05+05:45</lastmod>
+    <loc>http://localhost:1313/tags/3d-modeling/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fusion-360/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-device-design/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-devices/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/medtech/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/medtech-modeling-series/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/medtech-modeling-series/medical_bottle/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-projects/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/projects/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/medical-design/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/medtech-modeling-series/stethescope/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stethoscope/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/medtech-modeling-series/syringe/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/syringe/</loc>
+    <lastmod>2025-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/information/</loc>
     <lastmod>2025-02-12T21:24:05+05:45</lastmod>
   </url><url>
     <loc>http://localhost:1313/information/the_future_is_here/</loc>
     <lastmod>2025-02-12T21:24:05+05:45</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/team/</loc>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/syringe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/team/yogesh/</loc>
   </url>

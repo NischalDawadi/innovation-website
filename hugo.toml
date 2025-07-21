@@ -16,7 +16,8 @@ theme = 'PaperMod'
   mainSections = [ "projects", "information"]
   hideFooter = true
   disableThemeToggle= true
-  
+  showSectionPages = true
+
 [params.assets]
 favicon = "/icons/favicon.ico"
 favicon16x16 = "/icons/favicon-16x16.png"
@@ -54,16 +55,27 @@ apple_touch_icon = "/icons/apple-touch-icon.png"
     identifier = "projects"
     name = "Projects"
     url = "/Projects/"
-    weight = 2
+    weight = 4
 
   [[menu.main]]
   identifier = "team"
   name = "Team"
   url = "/team/"
-  weight = 4
+  weight = 10
 
  [[menu.main]]
  identifier = "paper"
   name = "Papers"
   url = "/Papers/"
   weight = 3
+
+  [[menu.main]]
+    identifier = "medtech-modeling-series"
+    name = "Medtech-Modeling"
+    url = "/medtech-modeling-series/"
+    weight = 2
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

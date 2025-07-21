@@ -7,17 +7,5 @@
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Syringe</title>
-      <link>http://localhost:1313/projects/syringe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/syringe/</guid>
-      <description>&lt;p&gt;We are excited to share one of our recent innovations — a realistic 3D model of a medical syringe created using Autodesk Fusion 360.&lt;/p&gt;
-&lt;p&gt;This project demonstrates our capability to digitally design medical tools for educational and prototyping purposes. The model focuses on:&lt;/p&gt;
-&lt;p&gt;Realistic proportions&lt;/p&gt;
-&lt;p&gt;Smooth sliding piston mechanism&lt;/p&gt;
-&lt;p&gt;Ready for 3D printing if needed&lt;/p&gt;
-&lt;p&gt;Our goal with such projects is to enhance medical learning through interactive, accurate models.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

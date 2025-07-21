@@ -6,7 +6,7 @@
     <description>Recent content on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 21:24:05 +0545</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nischal</title>
@@ -30,27 +30,34 @@
       <description>Sees beyond status quo, transforming friction into breakthrough and reshaping medical future.</description>
     </item>
     <item>
-      <title>Welcome to the Future of Medical Innovation</title>
+      <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
+      <link>http://localhost:1313/medtech-modeling-series/medical_bottle/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/</guid>
+      <description>As a team exploring 3D modeling in healthcare, we started simple — with a medical bottle. This project taught us how to work with threads, curves, and proportions using Fusion 360. It was our first real step into medical design, and it set the tone for everything that followed.</description>
+    </item>
+    <item>
+      <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
+      <link>http://localhost:1313/medtech-modeling-series/stethescope/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/medtech-modeling-series/stethescope/</guid>
+      <description>We’ve carried stethoscopes as medical students for years — so we decided to build one ourselves. This project was both personal and technical: a Fusion 360 model that helped us learn about organic curves, modular parts, and how everyday tools are designed from the ground up.</description>
+    </item>
+    <item>
+      <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>
+      <link>http://localhost:1313/medtech-modeling-series/syringe/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/medtech-modeling-series/syringe/</guid>
+      <description>In this project, we built a fully functional syringe model in Fusion 360. It helped us understand tolerances, movement, and how important small details are in medical devices. This was one of our favorite challenges — precise, practical, and deeply satisfying.</description>
+    </item>
+    <item>
+      <title>Welcome to GSSN Innovation</title>
       <link>http://localhost:1313/information/the_future_is_here/</link>
       <pubDate>Wed, 12 Feb 2025 21:24:05 +0545</pubDate>
       <guid>http://localhost:1313/information/the_future_is_here/</guid>
-      <description>&lt;p&gt;The Future is Here&lt;/p&gt;
-&lt;p&gt;The future isn’t something we wait for — it’s something we build.&lt;/p&gt;
-&lt;p&gt;At GSSN Innovation, we believe innovation starts with curiosity and thrives on collaboration. As a team of medical students, engineers, and problem-solvers, we are driven by one goal: to turn ideas into real-world solutions that improve lives.
-Where We&amp;rsquo;re Headed&lt;/p&gt;
-&lt;p&gt;Our focus lies at the intersection of healthcare and technology. From developing 3D anatomical models using tools like Autodesk Fusion 360, to exploring novel ways of making medical education more interactive, we are committed to pushing boundaries.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Syringe</title>
-      <link>http://localhost:1313/projects/syringe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/syringe/</guid>
-      <description>&lt;p&gt;We are excited to share one of our recent innovations — a realistic 3D model of a medical syringe created using Autodesk Fusion 360.&lt;/p&gt;
-&lt;p&gt;This project demonstrates our capability to digitally design medical tools for educational and prototyping purposes. The model focuses on:&lt;/p&gt;
-&lt;p&gt;Realistic proportions&lt;/p&gt;
-&lt;p&gt;Smooth sliding piston mechanism&lt;/p&gt;
-&lt;p&gt;Ready for 3D printing if needed&lt;/p&gt;
-&lt;p&gt;Our goal with such projects is to enhance medical learning through interactive, accurate models.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello and welcome!&lt;/p&gt;
+&lt;p&gt;We are a group of medical students passionate about exploring the crossroads of medicine and innovation. As future healthcare professionals, we recognize that advancing medicine isn’t just about mastering textbooks and clinical skills — it’s also about creativity, problem-solving, and pushing boundaries to improve patient care.&lt;/p&gt;
+&lt;p&gt;This website is our journey, our platform to share ideas, projects, breakthroughs, and insights on how innovation can transform medicine from within. Whether it’s developing new medical devices, leveraging technology to improve diagnostics, or finding novel approaches to healthcare delivery, we’re here to learn, experiment, and grow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yogesh</title>
