@@ -11,8 +11,8 @@ This journey wasn’t just about modeling objects — it was about understanding
 ### 🔧 What We Created
 
 
-- 🧴 [Part 1 – Medical Bottle: Designing for Usability]([./medical_bottle/](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/))
-- 🩺 [Part 2 – Stethoscope: Anatomy in Design]([./stethescope/](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/))
+- 🧴 [Part 1 – Medical Bottle: Designing for Usability](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/)
+- 🩺 [Part 2 – Stethoscope: Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)
 - 💉 [Part 3 – Syringe: Simplicity in Precision](https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/)
 
 Each model taught us something unique — from tolerances and constraints, to real-world proportions and usability. This project also pushed us deeper into Fusion 360’s powerful form and sketch workflows.

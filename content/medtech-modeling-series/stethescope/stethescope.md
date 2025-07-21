@@ -50,11 +50,11 @@ We designed this not just to look good, but to:
 
 ## 🔄 More in the Series
 
-🧴 [Medical Bottle – Designing for Usability](../medical_bottle/)  
-💉 [Syringe – Simplicity in Precision](../syringe/)
+🧴 [Medical Bottle – Designing for Usability](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/)  
+💉 [Syringe – Simplicity in Precision]https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/
 
 ---
 
-_This is part of our [MedTech Modeling Series](../medtech-modeling-series/), where we use 3D modeling to explore everyday clinical tools through a designer’s lens._
+_This is part of our [MedTech Modeling Series](https://innovationweb.netlify.app/medtech-modeling-series/), where we use 3D modeling to explore everyday clinical tools through a designer’s lens._
 
 > 💬 Got tips, ideas, or want to collaborate? Reach out — we love learning with the community!

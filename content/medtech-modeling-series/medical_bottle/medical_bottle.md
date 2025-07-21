@@ -41,11 +41,11 @@ We tried to balance **printability**, **visual realism**, and **real-world propo
 
 ## 🔄 Next in Series
 
-🔗 [Stethoscope – Anatomy in Design](../stethescope/)  
-🔗 [Syringe – Simplicity in Precision](../syringe/)
+🔗 [Stethoscope – Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)  
+🔗 [Syringe – Simplicity in Precision](https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/)
 
 ---
 
-_This project is part of our [MedTech Modeling Series](..), where we explore how 3D modeling bridges medicine and design._
+_This is part of our [MedTech Modeling Series](https://innovationweb.netlify.app/medtech-modeling-series/), where we use 3D modeling to explore everyday clinical tools through a designer’s lens._
 
 > 💬 Got thoughts or working on your own designs? Let’s connect!

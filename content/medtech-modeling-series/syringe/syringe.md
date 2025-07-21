@@ -41,11 +41,11 @@ Key steps involved:
 
 ## 🔄 Also in This Series
 
-🧴 [Medical Bottle – Designing for Usability](../medical_bottle)  
-🩺 [Stethoscope – Anatomy in Design](../stethoscope-design/)
+🧴 [Medical Bottle – Designing for Usability](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/)  
+🩺 [Stethoscope – Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)
 
 ---
 
-_This post is part of the [MedTech Modeling Series](..), where we explore the intersection of medicine, design, and digital fabrication._
+_This is part of our [MedTech Modeling Series](https://innovationweb.netlify.app/medtech-modeling-series/), where we use 3D modeling to explore everyday clinical tools through a designer’s lens._
 
 > 💬 Have your own experience modeling healthcare tools? Let's connect!
