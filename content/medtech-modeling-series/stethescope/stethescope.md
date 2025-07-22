@@ -26,9 +26,7 @@ Built entirely in **Fusion 360**, this model includes:
 - **Tubing geometry** with soft bends and flexible curves (sweeps & lofts)
 - **Chest piece construction** with filleted caps and dynamic head
 - **Eartips and stem** modeled as separate bodies for easy modification or printing
-- **Exploded view** to showcase internal components
 
-![Exploded View](stethoscope-exploded.png)
 
 > This project challenged us to create **organic curves** and **mechanical details** in the same workflow — something not often taught in tutorials.
 
@@ -36,7 +34,6 @@ Built entirely in **Fusion 360**, this model includes:
 
 - Used **loft and sweep** for soft tubing transitions
 - Modeled **complex organic + hard edges** in one design
-- Practiced **multi-body organization** for clean exploded views
 - Explored **modularity** for physical prototypes (e.g., swappable heads)
 
 ## 📐 Applications
