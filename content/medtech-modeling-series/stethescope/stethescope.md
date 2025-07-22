@@ -20,13 +20,15 @@ This model started out of curiosity: could we break down and recreate the form o
 
 What began as a basic tubing shape turned into a detailed exploration of how each component — from the earpiece to the chest piece — contributes to usability and acoustics.
 
+One of the most rewarding parts of this build was recreating the valve mechanism inside the chestpiece — the part that switches between the bell and diaphragm. This feature isn't just cosmetic; it's a real design choice that affects how sound travels through the tubing based on the selected mode.
+
 ## 🛠️ Design Highlights
 
 Built entirely in **Fusion 360**, this model includes:
 - **Tubing geometry** with soft bends and flexible curves (sweeps & lofts)
 - **Chest piece construction** with filleted caps and dynamic head
 - **Eartips and stem** modeled as separate bodies for easy modification or printing
-
+- **Chest piece** valve mechanism that switches between bell and diaphragm.
 
 > This project challenged us to create **organic curves** and **mechanical details** in the same workflow — something not often taught in tutorials.
 
