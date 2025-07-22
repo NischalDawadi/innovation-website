@@ -42,7 +42,7 @@ Key steps involved:
 ## 🔄 Also in This Series
 
 🧴 [Medical Bottle – Designing for Usability](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/)  
-🩺 [Stethoscope – Anatomy in Design] (https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)
+🩺 [Stethoscope – Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)
 
 ---
 

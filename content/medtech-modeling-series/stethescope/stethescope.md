@@ -51,7 +51,7 @@ We designed this not just to look good, but to:
 ## 🔄 More in the Series
 
 🧴 [Medical Bottle – Designing for Usability](https://innovationweb.netlify.app/medtech-modeling-series/medical_bottle/medical_bottle/)  
-💉 [Syringe – Simplicity in Precision]https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/
+💉 [Syringe – Simplicity in Precision](https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/)
 
 ---
 
