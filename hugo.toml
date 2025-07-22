@@ -13,7 +13,7 @@ theme = 'PaperMod'
   showPostThumbnails = true
   showBreadCrumbs = false
   defaultTheme = "light"
-  mainSections = [ "projects", "information","medtech-modeling-series"]
+  mainSections = ["information"]
   hideFooter = true
   disableThemeToggle= true
   showSectionPages = true
@@ -51,11 +51,6 @@ apple_touch_icon = "/icons/apple-touch-icon.png"
     url = "/Information/"
     weight = 1
     
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/Projects/"
-    weight = 4
 
   [[menu.main]]
   identifier = "team"
@@ -63,11 +58,7 @@ apple_touch_icon = "/icons/apple-touch-icon.png"
   url = "/team/"
   weight = 10
 
- [[menu.main]]
- identifier = "paper"
-  name = "Papers"
-  url = "/Papers/"
-  weight = 3
+
 
   [[menu.main]]
     identifier = "medtech-modeling-series"

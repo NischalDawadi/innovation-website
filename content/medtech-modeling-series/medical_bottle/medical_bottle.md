@@ -41,8 +41,8 @@ We tried to balance **printability**, **visual realism**, and **real-world propo
 
 ## 🔄 Next in Series
 
-🔗 [Stethoscope – Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)  
-🔗 [Syringe – Simplicity in Precision](https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/)
+🩺 [Stethoscope – Anatomy in Design](https://innovationweb.netlify.app/medtech-modeling-series/stethescope/stethescope/)  
+💉 [Syringe – Simplicity in Precision](https://innovationweb.netlify.app/medtech-modeling-series/syringe/syringe/)
 
 ---
 

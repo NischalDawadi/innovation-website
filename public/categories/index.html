@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/categories/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.fb3da613bf011a044555920d69b1479799024ef6a6ccc0fe3d87f1036d776495.css" integrity="sha256-&#43;z2mE78BGgRFVZINabFHl5kCTvamzMD&#43;PYfxA213ZJU=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.12ea868a021cb14628bd7621917fff4a8be8b0e878e95b7dac3771c66435e290.css" integrity="sha256-EuqGigIcsUYovXYhkX//SovosOh46Vt9rDdxxmQ14pA=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/icons/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/icons/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/icons/favicon-32x32.png">
@@ -38,9 +38,20 @@
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Innovation Home (Alt + H)">Innovation Home</a>
             <div class="logo-switches">
+
+             
             </div>
         </div>
-        <ul id="menu">
+
+        
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+        </button>
+        <ul class="menu hidden">
             <li>
                 <a href="http://localhost:1313/information/" title="Information">
                     <span>Information</span>
@@ -52,24 +63,13 @@
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/papers/" title="Papers">
-                    <span>Papers</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/projects/" title="Projects">
-                    <span>Projects</span>
-                </a>
-            </li>
-            <li>
                 <a href="http://localhost:1313/team/" title="Team">
                     <span>Team</span>
                 </a>
             </li>
         </ul>
     </nav>
-</header>
-<main class="main">
+</header><main class="main">
 <header class="page-header">
     <h1>Categories</h1>
 </header>
@@ -90,7 +90,22 @@
         © 2025 · Designed & Maintained by Nischal Dawadi
     </span>
 </footer>
-
+<script>
+    
+    
+    let b = document.querySelector("#menu-trigger")
+    let m = document.querySelector(".menu")
+    b.addEventListener("click", function () {
+        m.classList.toggle("hidden")
+    });
+    
+    document.body.addEventListener('click', function (event) {
+        if (!b.contains(event.target)) {
+            m.classList.add("hidden")
+        }
+    });
+    
+</script>
 
 <script>
     let menu = document.getElementById('menu')
