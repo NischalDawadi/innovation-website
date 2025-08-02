@@ -13,9 +13,22 @@
       <link>http://localhost:1313/information/the_future_is_here/</link>
       <pubDate>Wed, 12 Feb 2025 21:24:05 +0545</pubDate>
       <guid>http://localhost:1313/information/the_future_is_here/</guid>
-      <description>&lt;p&gt;Hello and welcome!&lt;/p&gt;
-&lt;p&gt;We are a group of medical students passionate about exploring the crossroads of medicine and innovation. As future healthcare professionals, we recognize that advancing medicine isn’t just about mastering textbooks and clinical skills — it’s also about creativity, problem-solving, and pushing boundaries to improve patient care.&lt;/p&gt;
-&lt;p&gt;This website is our journey, our platform to share ideas, projects, breakthroughs, and insights on how innovation can transform medicine from within. Whether it’s developing new medical devices, leveraging technology to improve diagnostics, or finding novel approaches to healthcare delivery, we’re here to learn, experiment, and grow.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;typeit-59a19ed633a17117b7241850ed0f93d9&#34;&gt;&lt;/h3&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-59a19ed633a17117b7241850ed0f93d9&#34;, {
+        strings: [&#34;&#34;,&#34;Hello and welcome!&#34;,&#34;&#34;],
+        speed:  100 ,
+        lifeLike:  true ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+&lt;p&gt;We are a group of medical students passionate about exploring the crossroads of medicine and innovation. As future healthcare professionals, we recognize that advancing medicine isn’t just about mastering textbooks and clinical skills — it’s also about creativity, problem-solving, and pushing boundaries to improve patient care.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

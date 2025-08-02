@@ -27,7 +27,11 @@ apple_touch_icon = "/icons/apple-touch-icon.png"
 
   [params.homeInfoParams]
  Title = "GSSN INNOVATION"
- Content = "Empowering Medical Innovation through Design and Technology."
+Content = """{{< typeit 
+speed="50"
+  >}}
+Empowering Medical Innovation through Design and Technology.
+{{< /typeit >}}"""
   
   
  [[params.socialIcons]]

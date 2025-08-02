@@ -6,8 +6,15 @@ draft = false
 image = "/images/glasses.jpg"
 weight= 1
 +++
-
+{{< typeit 
+  tag=h3
+  lifeLike=true
+>}}
 Hello and welcome!
+{{< /typeit >}}
+
+
+
 
 We are a group of medical students passionate about exploring the crossroads of medicine and innovation. As future healthcare professionals, we recognize that advancing medicine isn’t just about mastering textbooks and clinical skills — it’s also about creativity, problem-solving, and pushing boundaries to improve patient care.
 
