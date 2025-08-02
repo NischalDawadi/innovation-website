@@ -1,6 +1,7 @@
 .cta-button {
   display: inline-block;
   margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
   padding: 0.7rem 1.4rem;
   background-color: #1f2937;  /* deep slate gray */
   color: #e0f2fe; /* light cyan-tinted text */
