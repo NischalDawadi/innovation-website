@@ -1,0 +1,26 @@
+.cta-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.7rem 1.4rem;
+  background-color: #1f2937;  /* deep slate gray */
+  color: #e0f2fe; /* light cyan-tinted text */
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid #334155;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #273449; /* very slightly lighter, bluish tint */
+  color: #f0f9ff;
+  border-color: #3b4c5f;
+  box-shadow: 0 8px 16px rgba(14, 165, 233, 0.08); /* subtle bluish glow */
+  transform: translateY(-1px);
+}
+
+.cta-button:active {
+  transform: translateY(0px);
+  background-color: #1e293b;  /* slight press effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+}

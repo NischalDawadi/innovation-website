@@ -32,15 +32,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 .first-entry.home-info {
    margin-top: 1rem;
-  max-width: 800px;
-   margin-bottom: 2rem;
 }
 
 
 .entry-header h1 {
     font-family: 'Oswald',sans-serif;
-  font-weight: 900;
-  letter-spacing: .6px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
   font-size: 3em !important; /* try with !important first */
   color: #14213D;
   text-align: center;
@@ -48,40 +46,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .entry-content {
   color: #555;
-  margin-bottom: 1rem;
   line-height: 1.6;
 }
 
-
-/* === Responsive Fixes === */
-@media (max-width: 768px) {
-  .entry-header h1 {
-    font-weight: 600;
-  text-align: center;
-    font-size: 0.6em;
-  }
-
-  .first-entry.home-info {
-    margin-top: 2.2rem;  /* Example tweak */
-  }
-}
-
-
-
-.home-info mark {
-    background: transparent;
-    color: inherit;
-    padding: 0;
-}
-
- .post-title {
+.post-title {
     font-size: 1.7rem;
   }
   
 .nav a {
+  font-family: 'Lato', sans-serif;
     font-weight: 600;
-  letter-spacing: 0.5px;
-  padding: 0.5rem 0.25rem;
+  padding: 0rem 0.10rem;
   border-radius: 8px;
   color: #000;
   transition: transform 0.5s ease;
@@ -90,7 +65,6 @@ h1, h2, h3, h4, h5, h6 {
 /* ===== Link & Button Styling ===== */
 a,
 .post-content a {
-  
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -103,13 +77,21 @@ a:hover,
 
 
 @media (max-width: 768px) {
+  .entry-header h1 {
+    font-weight: 600;
+  text-align: center;
+    font-size: 0.6em;
+  }
 
+  .first-entry.home-info {
+    margin-top: 2.2rem;  /* Example tweak */
+  }
   .post-entry, .card {
     padding: 1rem;
   }
 
   .post-title {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
   }
 
   .profile-shadow {
@@ -153,3 +135,15 @@ a:hover,
     padding: 0.2rem 0.5rem;
     border-radius: 0.3rem;
 }
+
+.logo a {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    font-family: 'DM Serif Display', sans-serif;  /* Or Poppins, Inter, etc. */
+    color: #14213D;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+
