@@ -18,6 +18,10 @@ theme = 'PaperMod'
   disableThemeToggle= true
   showSectionPages = true
   
+  [params.label]
+icon = "/images/final.png"
+iconHeight = 50
+text = " "
 
 [params.assets]
 favicon = "/icons/favicon.ico"
