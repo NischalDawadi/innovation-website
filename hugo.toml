@@ -17,6 +17,7 @@ theme = 'PaperMod'
   hideFooter = true
   disableThemeToggle= true
   showSectionPages = true
+  
 
 [params.assets]
 favicon = "/icons/favicon.ico"
@@ -24,10 +25,8 @@ favicon16x16 = "/icons/favicon-16x16.png"
 favicon32x32 = "/icons/favicon-32x32.png"
 apple_touch_icon = "/icons/apple-touch-icon.png"
 
-
-
   [params.homeInfoParams]
- Title = "GSSN Innovation"
+ Title = "GSSN INNOVATION"
  Content = "Empowering Medical Innovation through Design and Technology."
   
   
