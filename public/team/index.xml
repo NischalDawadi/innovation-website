@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Our Team on Innovation Home</title>
-    <link>http://localhost:1313/team/</link>
+    <link>http://localhost:39681/team/</link>
     <description>Recent content in Our Team on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39681/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nischal</title>
-      <link>http://localhost:1313/team/nischal/</link>
+      <link>http://localhost:39681/team/nischal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/nischal/</guid>
+      <guid>http://localhost:39681/team/nischal/</guid>
       <description>Passionate about using technology and creativity to drive medical innovation</description>
     </item>
     <item>
       <title>Sulav</title>
-      <link>http://localhost:1313/team/sulav/</link>
+      <link>http://localhost:39681/team/sulav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/sulav/</guid>
+      <guid>http://localhost:39681/team/sulav/</guid>
       <description>Loves to lead a brilliant team, passionate about surgical simulation and lowcost innovation.</description>
     </item>
     <item>
       <title>Naresh</title>
-      <link>http://localhost:1313/team/naresh/</link>
+      <link>http://localhost:39681/team/naresh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/naresh/</guid>
+      <guid>http://localhost:39681/team/naresh/</guid>
       <description>Sees beyond status quo, transforming friction into breakthrough and reshaping medical future.</description>
     </item>
     <item>
       <title>Yogesh</title>
-      <link>http://localhost:1313/team/yogesh/</link>
+      <link>http://localhost:39681/team/yogesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/yogesh/</guid>
+      <guid>http://localhost:39681/team/yogesh/</guid>
       <description>Guiding innovative medical projects and fostering a creative, problem-solving environment within the team.</description>
     </item>
   </channel>

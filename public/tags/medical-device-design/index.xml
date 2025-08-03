@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Medical Device Design on Innovation Home</title>
-    <link>http://localhost:1313/tags/medical-device-design/</link>
+    <link>http://localhost:39681/tags/medical-device-design/</link>
     <description>Recent content in Medical Device Design on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/medical-device-design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39681/tags/medical-device-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our First Fusion 360 Model – A Medical Bottle That Taught Us the Basics</title>
-      <link>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</link>
+      <link>http://localhost:39681/medtech-modeling-series/medical_bottle/medical_bottle/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/medical_bottle/medical_bottle/</guid>
+      <guid>http://localhost:39681/medtech-modeling-series/medical_bottle/medical_bottle/</guid>
       <description>As a team exploring 3D modeling in healthcare, we started simple — with a medical bottle. This project taught us how to work with threads, curves, and proportions using Fusion 360. It was our first real step into medical design, and it set the tone for everything that followed.</description>
     </item>
   </channel>

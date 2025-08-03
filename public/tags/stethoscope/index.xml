@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stethoscope on Innovation Home</title>
-    <link>http://localhost:1313/tags/stethoscope/</link>
+    <link>http://localhost:39681/tags/stethoscope/</link>
     <description>Recent content in Stethoscope on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stethoscope/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39681/tags/stethoscope/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recreating a Stethoscope – A Personal Project Close to Our Journey</title>
-      <link>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</link>
+      <link>http://localhost:39681/medtech-modeling-series/stethescope/stethescope/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/stethescope/stethescope/</guid>
+      <guid>http://localhost:39681/medtech-modeling-series/stethescope/stethescope/</guid>
       <description>We’ve carried stethoscopes as medical students for years — so we decided to build one ourselves. This project was both personal and technical: a Fusion 360 model that helped us learn about organic curves, modular parts, and how everyday tools are designed from the ground up.</description>
     </item>
   </channel>

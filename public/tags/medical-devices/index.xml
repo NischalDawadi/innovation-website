@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Medical Devices on Innovation Home</title>
-    <link>http://localhost:1313/tags/medical-devices/</link>
+    <link>http://localhost:39681/tags/medical-devices/</link>
     <description>Recent content in Medical Devices on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/medical-devices/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39681/tags/medical-devices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling a Syringe – A Lesson in Precision, Motion, and Real-World Design</title>
-      <link>http://localhost:1313/medtech-modeling-series/syringe/syringe/</link>
+      <link>http://localhost:39681/medtech-modeling-series/syringe/syringe/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/medtech-modeling-series/syringe/syringe/</guid>
+      <guid>http://localhost:39681/medtech-modeling-series/syringe/syringe/</guid>
       <description>In this project, we built a fully functional syringe model in Fusion 360. It helped us understand tolerances, movement, and how important small details are in medical devices. This was one of our favorite challenges — precise, practical, and deeply satisfying.</description>
     </item>
   </channel>
