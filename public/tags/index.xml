@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Innovation Home</title>
-    <link>http://localhost:39681/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Innovation Home</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:39681/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Modeling</title>
-      <link>http://localhost:39681/tags/3d-modeling/</link>
+      <link>http://localhost:1313/tags/3d-modeling/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/3d-modeling/</guid>
+      <guid>http://localhost:1313/tags/3d-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Fusion 360</title>
-      <link>http://localhost:39681/tags/fusion-360/</link>
+      <link>http://localhost:1313/tags/fusion-360/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/fusion-360/</guid>
+      <guid>http://localhost:1313/tags/fusion-360/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Device Design</title>
-      <link>http://localhost:39681/tags/medical-device-design/</link>
+      <link>http://localhost:1313/tags/medical-device-design/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/medical-device-design/</guid>
+      <guid>http://localhost:1313/tags/medical-device-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Devices</title>
-      <link>http://localhost:39681/tags/medical-devices/</link>
+      <link>http://localhost:1313/tags/medical-devices/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/medical-devices/</guid>
+      <guid>http://localhost:1313/tags/medical-devices/</guid>
       <description></description>
     </item>
     <item>
       <title>MedTech</title>
-      <link>http://localhost:39681/tags/medtech/</link>
+      <link>http://localhost:1313/tags/medtech/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/medtech/</guid>
+      <guid>http://localhost:1313/tags/medtech/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal Projects</title>
-      <link>http://localhost:39681/tags/personal-projects/</link>
+      <link>http://localhost:1313/tags/personal-projects/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/personal-projects/</guid>
+      <guid>http://localhost:1313/tags/personal-projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Design</title>
-      <link>http://localhost:39681/tags/medical-design/</link>
+      <link>http://localhost:1313/tags/medical-design/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/medical-design/</guid>
+      <guid>http://localhost:1313/tags/medical-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Stethoscope</title>
-      <link>http://localhost:39681/tags/stethoscope/</link>
+      <link>http://localhost:1313/tags/stethoscope/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/stethoscope/</guid>
+      <guid>http://localhost:1313/tags/stethoscope/</guid>
       <description></description>
     </item>
     <item>
       <title>Syringe</title>
-      <link>http://localhost:39681/tags/syringe/</link>
+      <link>http://localhost:1313/tags/syringe/</link>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:39681/tags/syringe/</guid>
+      <guid>http://localhost:1313/tags/syringe/</guid>
       <description></description>
     </item>
   </channel>
